@@ -36,14 +36,14 @@ Identify any issues that are still present, even after the release, to set user 
 
 |<<previous-page-id, Previous Title>>  
 
-ifndef::book-build[]
+
 xref:ROOT:previous.adoc[previous topic]
-endif::book-build[]
+
 
 |<<next-page-id, Next Title>>   
 
-ifndef::book-build[]
+
 xref:ROOT:next.adoc[next topic]
-endif::book-build[]
+
 
 |===
