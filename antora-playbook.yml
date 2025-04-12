@@ -1,6 +1,6 @@
 site:
   title: Blue Planet ROA
-  start_page: bp-roa-user-guide::index.adoc
+  start_page: roa-release-note::index.adoc
 content:
   sources:
   - url: https://github.com/rickey-alok/site-2.git
