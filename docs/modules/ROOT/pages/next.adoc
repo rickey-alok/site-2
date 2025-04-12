@@ -1,6 +1,6 @@
-= Welcome to Release notes
-:navtitle: Welcome
-:page-id: same-id  
+= Welcome to next notes
+:navtitle: previous
+:page-id: next-id  
 
 Release notes are a crucial part of software development and deployment, serving as a document that communicates what has changed in a particular version of a product or service. They help users understand new features, improvements, and bug fixes, and they can be essential for maintaining transparency and fostering user engagement. Here’s a clear concept for what release notes typically include:
 
@@ -34,7 +34,7 @@ Identify any issues that are still present, even after the release, to set user 
 [cols="<1,>1",frame=none,grid=none]
 |===
 
-|<<previous-page-id, Previous Title>>  
-|<<next-page-id, Next Title>>   
+|<<previous-id, Previous Title>>  
+|<<next-id, Next Title>>   
 
 |===
