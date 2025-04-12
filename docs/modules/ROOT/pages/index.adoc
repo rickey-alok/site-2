@@ -34,16 +34,14 @@ Identify any issues that are still present, even after the release, to set user 
 [cols="<1,>1",frame=none,grid=none]
 |===
 
-|<<previous-page-id, Previous Title>>  
+|Prev
+
+xref:ROOT:previous.adoc[*< previous topic*]
 
 
-xref:ROOT:previous.adoc[previous topic]
+|Next
 
-
-|<<next-page-id, Next Title>>   
-
-
-xref:ROOT:next.adoc[next topic]
+xref:ROOT:next.adoc[*next topic >*]
 
 
 |===
