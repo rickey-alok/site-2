@@ -1,0 +1,13 @@
+site:
+  title: Blue Planet ROA
+  start_page: bp-roa-user-guide::index.adoc
+content:
+  sources:
+  - url: https://github.com/rickey-alok/site-2.git
+    branches: [25.04,25.12]
+    start_path: docs
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
