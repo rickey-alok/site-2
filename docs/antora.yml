@@ -1,5 +1,5 @@
-name: component-b
-title: Component B
+name: roa-release-note
+title: ROA Release Notes
 version: v1.0
 nav:
 - modules/ROOT/nav.adoc
