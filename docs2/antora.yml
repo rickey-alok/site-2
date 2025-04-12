@@ -1,0 +1,6 @@
+name: roa-release-note
+title: ROA Release Notes
+version: 25.04
+nav:
+- modules/ROOT/nav.adoc
+

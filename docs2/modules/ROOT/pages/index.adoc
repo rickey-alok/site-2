@@ -1,0 +1,47 @@
+= Welcome to Release notes
+:navtitle: Welcome
+:page-id: same-id  
+
+Release notes are a crucial part of software development and deployment, serving as a document that communicates what has changed in a particular version of a product or service. They help users understand new features, improvements, and bug fixes, and they can be essential for maintaining transparency and fostering user engagement. Here’s a clear concept for what release notes typically include:
+
+== Introduction:
+A brief summary of what this release entails. This section can include:
+- The purpose of the release (e.g., major update, minor fixes, etc.)
+- Any important context or background information.
+
+== New Features:
+Highlight any significant new features introduced in this release. This section should explain:
+- What the new features are.
+- How users can benefit from them.
+- Any relevant usage instructions or links to documentation.
+
+== Improvements:
+Detail any enhancements made to existing features. This might include performance upgrades, design changes, or enhanced functionality. Describe:
+- What has been improved.
+- The impact of these improvements on user experience.
+
+== Bug Fixes:
+List the issues that have been resolved in this release, ideally with references to any known bugs reported by users. Include:
+- A brief description of the bugs fixed.
+- The version(s) where the bugs were reported.
+
+== Known Issues:
+Identify any issues that are still present, even after the release, to set user expectations. This section can cover:
+- Workarounds for any critical issues.
+- Plans for future fixes.
+
+
+[cols="<1,>1",frame=none,grid=none]
+|===
+
+|Prev
+
+xref:ROOT:previous.adoc[*< previous topic*]
+
+
+|Next
+
+xref:ROOT:next.adoc[*next topic >*]
+
+
+|===
