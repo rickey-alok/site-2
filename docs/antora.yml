@@ -1,6 +1,6 @@
 name: roa-release-note
 title: ROA Release Notes
-version: v1.0
+version: 25.12
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
