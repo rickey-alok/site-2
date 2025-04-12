@@ -6,6 +6,9 @@ content:
   - url: https://github.com/rickey-alok/site-2.git
     branches: [25.04,25.12]
     start_path: docs
+  - url: https://github.com/rickey-alok/site-2.git
+    branches: [25.04]
+    start_path: docs2
 
 ui:
   bundle:
